@@ -1,0 +1,671 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="662a3ba8-7b9e-4430-a705-46b9e99c39f0" name="Default" comment="easy calculator">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/docs/cocos2dx_portrait.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/docs/framework_architecture.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/docs/img-cocos.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../.cocos-project.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../.idea/III03.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CMakeLists.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/AUTHORS" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/CHANGELOG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/CMakeLists.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/CONTRIBUTING.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/README.cmake" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/build/android-build.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/build/cocos2d-win10.sln" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/build/cocos2d-win32.sln" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/build/cocos2d_libs.xcodeproj/project.pbxproj" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/build/cocos2d_tests.xcodeproj/project.pbxproj" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/build/install-deps-linux.sh" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/build/tizen/.cproject" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/build/tizen/.exportMap" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/build/tizen/.project" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/build/tizen/.tproject" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/build/tizen/Build/appendix.mk" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/build/tizen/Build/basedef.mk" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/build/tizen/Build/build_c.mk" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/build/tizen/Build/build_edc.mk" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/build/tizen/Build/build_po.mk" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/build/tizen/Build/flags.mk" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/build/tizen/Build/funcs.mk" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/build/tizen/Build/makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/build/tizen/Build/makefile.mk" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/build/tizen/Build/platform.mk" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/build/tizen/Build/tooldef.mk" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/build/tizen/project_def.prop" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/build/win32-msvc-2013-x86.cmd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cmake/AndroidNdkGdb.cmake" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cmake/AndroidNdkModules.cmake" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cmake/BuildHelpers.CMakeLists.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cmake/Modules/BuildModules.cmake" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cmake/Modules/CMakeParseArguments.cmake" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cmake/Modules/CocosBuildHelpers.cmake" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cmake/Modules/CocosUsePrebuiltLibs.cmake" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cmake/Modules/FindCURL.cmake" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cmake/Modules/FindChipmunk.cmake" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cmake/Modules/FindFMOD.cmake" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cmake/Modules/FindFontconfig.cmake" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cmake/Modules/FindFreetype.cmake" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cmake/Modules/FindGLFW3.cmake" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cmake/Modules/FindGTK3.cmake" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cmake/Modules/FindJPEG.cmake" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cmake/Modules/FindMINIZIP.cmake" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cmake/Modules/FindMPG123.cmake" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cmake/Modules/FindOgg.cmake" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cmake/Modules/FindPNG.cmake" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cmake/Modules/FindPackageHandleStandardArgs.cmake" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cmake/Modules/FindPackageMessage.cmake" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cmake/Modules/FindPkgConfig.cmake" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cmake/Modules/FindRecast.cmake" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cmake/Modules/FindSQLite3.cmake" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cmake/Modules/FindTIFF.cmake" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cmake/Modules/FindTinyXML2.cmake" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cmake/Modules/FindVorbis.cmake" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cmake/Modules/FindWEBSOCKETS.cmake" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cmake/Modules/FindWebP.cmake" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cmake/Modules/Findflatbuffers.cmake" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cmake/Modules/Findxxhash.cmake" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cmake/Modules/SelectLibraryConfigurations.cmake" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cmake/Modules/SelectModule.cmake" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cmake/Modules/SetCompilerOptions.cmake" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cmake/android.toolchain.cmake" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cmake/ios.toolchain.cmake" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/2d/CCAction.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/2d/CCAction.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/2d/CCActionCamera.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/2d/CCActionCamera.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/2d/CCActionCatmullRom.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/2d/CCActionCatmullRom.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/2d/CCActionEase.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/2d/CCActionEase.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/2d/CCActionGrid.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/2d/CCActionGrid.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/2d/CCActionGrid3D.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/2d/CCActionGrid3D.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/2d/CCActionInstant.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/2d/CCActionInstant.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/2d/CCActionInterval.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/2d/CCActionInterval.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/2d/CCActionManager.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/2d/CCActionManager.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/2d/CCActionPageTurn3D.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/2d/CCActionPageTurn3D.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/2d/CCActionProgressTimer.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/2d/CCActionProgressTimer.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/2d/CCActionTiledGrid.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/2d/CCActionTiledGrid.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/2d/CCActionTween.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/2d/CCActionTween.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/2d/CCAnimation.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/2d/CCAnimation.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/2d/CCAnimationCache.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/2d/CCAnimationCache.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/2d/CCAtlasNode.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/2d/CCAtlasNode.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/2d/CCAutoPolygon.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/2d/CCAutoPolygon.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/2d/CCCamera.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/2d/CCCamera.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/2d/CCCameraBackgroundBrush.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/2d/CCCameraBackgroundBrush.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/2d/CCClippingNode.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/2d/CCClippingNode.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/2d/CCClippingRectangleNode.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/2d/CCClippingRectangleNode.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/2d/CCComponent.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/2d/CCComponent.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/2d/CCComponentContainer.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/2d/CCComponentContainer.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/2d/CCDrawNode.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/2d/CCDrawNode.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/2d/CCDrawingPrimitives.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/2d/CCDrawingPrimitives.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/2d/CCFastTMXLayer.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/2d/CCFastTMXLayer.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/2d/CCFastTMXTiledMap.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/2d/CCFastTMXTiledMap.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/2d/CCFont.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/2d/CCFont.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/2d/CCFontAtlas.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/2d/CCFontAtlas.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/2d/CCFontAtlasCache.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/2d/CCFontAtlasCache.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/2d/CCFontCharMap.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/2d/CCFontCharMap.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/2d/CCFontFNT.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/2d/CCFontFNT.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/2d/CCFontFreeType.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/2d/CCFontFreeType.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/2d/CCGLBufferedNode.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/2d/CCGLBufferedNode.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/2d/CCGrabber.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/2d/CCGrabber.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/2d/CCGrid.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/2d/CCGrid.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/2d/CCLabel.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/2d/CCLabel.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/2d/CCLabelAtlas.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/2d/CCLabelAtlas.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/2d/CCLabelBMFont.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/2d/CCLabelBMFont.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/2d/CCLabelTTF.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/2d/CCLabelTTF.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/2d/CCLabelTextFormatter.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/2d/CCLabelTextFormatter.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/2d/CCLayer.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/2d/CCLayer.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/2d/CCLight.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/2d/CCLight.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/2d/CCMenu.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/2d/CCMenu.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/2d/CCMenuItem.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/2d/CCMenuItem.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/2d/CCMotionStreak.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/2d/CCMotionStreak.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/2d/CCNode.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/2d/CCNode.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/2d/CCNodeGrid.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/2d/CCNodeGrid.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/2d/CCParallaxNode.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/2d/CCParallaxNode.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/2d/CCParticleBatchNode.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/2d/CCParticleBatchNode.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/2d/CCParticleExamples.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/2d/CCParticleExamples.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/2d/CCParticleSystem.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/2d/CCParticleSystem.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/2d/CCParticleSystemQuad.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/2d/CCParticleSystemQuad.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/2d/CCProgressTimer.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/2d/CCProgressTimer.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/2d/CCProtectedNode.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/2d/CCProtectedNode.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/2d/CCRenderTexture.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/2d/CCRenderTexture.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/2d/CCScene.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/2d/CCScene.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/2d/CCSprite.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/2d/CCSprite.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/2d/CCSpriteBatchNode.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/2d/CCSpriteBatchNode.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/2d/CCSpriteFrame.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/2d/CCSpriteFrame.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/2d/CCSpriteFrameCache.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/2d/CCSpriteFrameCache.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/2d/CCTMXLayer.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/2d/CCTMXLayer.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/2d/CCTMXObjectGroup.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/2d/CCTMXObjectGroup.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/2d/CCTMXTiledMap.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/2d/CCTMXTiledMap.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/2d/CCTMXXMLParser.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/2d/CCTMXXMLParser.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/2d/CCTextFieldTTF.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/2d/CCTextFieldTTF.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/2d/CCTileMapAtlas.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/2d/CCTileMapAtlas.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/2d/CCTransition.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/2d/CCTransition.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/2d/CCTransitionPageTurn.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/2d/CCTransitionPageTurn.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/2d/CCTransitionProgress.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/2d/CCTransitionProgress.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/2d/CCTweenFunction.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/2d/CCTweenFunction.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/2d/CMakeLists.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/2d/cocos2d.def" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/2d/cocos2d_headers.props" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/2d/cocos2dx.props" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/2d/libcocos2d.vcxproj" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/2d/libcocos2d.vcxproj.filters" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/2d/libcocos2d_win10/libcocos2d.vcxproj" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/2d/libcocos2d_win10/libcocos2d.vcxproj.filters" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/2d/win10_props/cocos2d_win10.props" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/2d/win10_props/cocos2d_win10_app.props" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/2d/win10_props/cocos2d_win10_platform.props" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/3d/Android.mk" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/3d/CCAABB.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/3d/CCAABB.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/3d/CCAnimate3D.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/3d/CCAnimate3D.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/3d/CCAnimation3D.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/3d/CCAnimation3D.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/3d/CCAnimationCurve.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/3d/CCAnimationCurve.inl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/3d/CCAttachNode.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/3d/CCAttachNode.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/3d/CCBillBoard.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/3d/CCBillBoard.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/3d/CCBundle3D.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/3d/CCBundle3D.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/3d/CCBundle3DData.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/3d/CCBundleReader.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/3d/CCBundleReader.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/3d/CCFrustum.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/3d/CCFrustum.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/3d/CCMesh.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/3d/CCMesh.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/3d/CCMeshSkin.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/3d/CCMeshSkin.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/3d/CCMeshVertexIndexData.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/3d/CCMeshVertexIndexData.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/3d/CCMotionStreak3D.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/3d/CCMotionStreak3D.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/3d/CCOBB.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/3d/CCOBB.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/3d/CCObjLoader.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/3d/CCObjLoader.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/3d/CCPlane.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/3d/CCPlane.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/3d/CCRay.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/3d/CCRay.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/3d/CCSkeleton3D.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/3d/CCSkeleton3D.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/3d/CCSkybox.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/3d/CCSkybox.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/3d/CCSprite3D.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/3d/CCSprite3D.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/3d/CCSprite3DMaterial.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/3d/CCSprite3DMaterial.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/3d/CCTerrain.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/3d/CCTerrain.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/3d/CMakeLists.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/3d/cocos3d.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/Android.mk" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/CMakeLists.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/base/CCConsole.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/base/CCController.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/base/CCData.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/base/CCData.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/base/CCDataVisitor.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/base/CCDataVisitor.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/base/CCEventAcceleration.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/base/CCEventController.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/base/CCEventCustom.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/base/CCEventCustom.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/base/CCEventDispatcher.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/base/CCEventFocus.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/base/CCEventFocus.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/base/CCEventKeyboard.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/base/CCEventKeyboard.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/base/CCEventListenerAcceleration.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/base/CCEventListenerFocus.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/base/CCEventListenerKeyboard.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/base/CCEventListenerMouse.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/base/CCEventListenerMouse.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/base/CCEventListenerTouch.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/base/CCEventListenerTouch.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/base/CCEventMouse.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/base/CCEventTouch.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/base/CCEventTouch.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/base/CCGameController.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/base/CCIMEDispatcher.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/base/CCNinePatchImageParser.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/base/CCNinePatchImageParser.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/base/CCProfiling.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/base/CCProperties.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/base/CCProtocols.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/base/CCRef.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/base/CCStencilStateManager.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/base/CCUserDefault-apple.mm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/base/CCUserDefault-winrt.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/base/CCUserDefault.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/base/CMakeLists.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/base/ObjectFactory.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/base/TGAlib.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/base/atitc.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/base/atitc.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/base/ccCArray.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/base/ccConfig.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/base/ccFPSImages.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/base/ccFPSImages.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/base/ccTypes.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/base/ccTypes.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/base/ccUTF8.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/base/ccUtils.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/base/etc1.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/base/firePngData.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/base/pvr.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/base/s3tc.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/cc_dummy.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/cocos2d.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/cocos2d.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/ui/Android.mk" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/ui/CMakeLists.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/ui/CocosGUI.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/ui/CocosGUI.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/ui/GUIDefine.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/ui/GUIExport.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/ui/UIAbstractCheckButton.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/ui/UIAbstractCheckButton.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/ui/UIButton.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/ui/UIButton.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/ui/UICheckBox.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/ui/UICheckBox.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/ui/UIDeprecated.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/ui/UIDeprecated.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/ui/UIEditBox/Mac/CCUIEditBoxMac.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/ui/UIEditBox/Mac/CCUIEditBoxMac.mm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/ui/UIEditBox/Mac/CCUIMultilineTextField.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/ui/UIEditBox/Mac/CCUIMultilineTextField.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/ui/UIEditBox/Mac/CCUIPasswordTextField.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/ui/UIEditBox/Mac/CCUIPasswordTextField.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/ui/UIEditBox/Mac/CCUISingleLineTextField.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/ui/UIEditBox/Mac/CCUISingleLineTextField.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/ui/UIEditBox/Mac/CCUITextFieldFormatter.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/ui/UIEditBox/Mac/CCUITextFieldFormatter.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/ui/UIEditBox/Mac/CCUITextInput.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/ui/UIEditBox/UIEditBox.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/ui/UIEditBox/UIEditBox.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/ui/UIEditBox/UIEditBoxImpl-android.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/ui/UIEditBox/UIEditBoxImpl-android.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/ui/UIEditBox/UIEditBoxImpl-common.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/ui/UIEditBox/UIEditBoxImpl-common.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/ui/UIEditBox/UIEditBoxImpl-ios.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/ui/UIEditBox/UIEditBoxImpl-ios.mm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/ui/UIEditBox/UIEditBoxImpl-linux.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/ui/UIEditBox/UIEditBoxImpl-linux.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/ui/UIEditBox/UIEditBoxImpl-mac.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/ui/UIEditBox/UIEditBoxImpl-mac.mm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/ui/UIEditBox/UIEditBoxImpl-stub.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/ui/UIEditBox/UIEditBoxImpl-tizen.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/ui/UIEditBox/UIEditBoxImpl-tizen.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/ui/UIEditBox/UIEditBoxImpl-win32.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/ui/UIEditBox/UIEditBoxImpl-win32.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/ui/UIEditBox/UIEditBoxImpl-winrt.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/ui/UIEditBox/UIEditBoxImpl-winrt.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/ui/UIEditBox/UIEditBoxImpl.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/ui/UIEditBox/iOS/CCUIEditBoxIOS.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/ui/UIEditBox/iOS/CCUIEditBoxIOS.mm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/ui/UIEditBox/iOS/CCUIMultilineTextField.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/ui/UIEditBox/iOS/CCUIMultilineTextField.mm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/ui/UIEditBox/iOS/CCUISingleLineTextField.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/ui/UIEditBox/iOS/CCUISingleLineTextField.mm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/ui/UIEditBox/iOS/CCUITextInput.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/ui/UIEditBox/iOS/UITextField+CCUITextInput.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/ui/UIEditBox/iOS/UITextField+CCUITextInput.mm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/ui/UIEditBox/iOS/UITextView+CCUITextInput.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/ui/UIEditBox/iOS/UITextView+CCUITextInput.mm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/ui/UIHBox.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/ui/UIHBox.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/ui/UIHelper.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/ui/UIHelper.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/ui/UIImageView.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/ui/UIImageView.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/ui/UILayout.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/ui/UILayout.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/ui/UILayoutComponent.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/ui/UILayoutComponent.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/ui/UILayoutManager.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/ui/UILayoutManager.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/ui/UILayoutParameter.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/ui/UILayoutParameter.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/ui/UIListView.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/ui/UIListView.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/ui/UILoadingBar.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/ui/UILoadingBar.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/ui/UIPageView.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/ui/UIPageView.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/ui/UIPageViewIndicator.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/ui/UIPageViewIndicator.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/ui/UIRadioButton.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/ui/UIRadioButton.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/ui/UIRelativeBox.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/ui/UIRelativeBox.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/ui/UIRichText.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/ui/UIRichText.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/ui/UIScale9Sprite.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/ui/UIScale9Sprite.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/ui/UIScrollView.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/ui/UIScrollView.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/ui/UIScrollViewBar.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/ui/UIScrollViewBar.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/ui/UISlider.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/ui/UISlider.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/ui/UITabControl.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/ui/UITabControl.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/ui/UIText.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/ui/UIText.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/ui/UITextAtlas.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/ui/UITextAtlas.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/ui/UITextBMFont.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/ui/UITextBMFont.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/ui/UITextField.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/ui/UITextField.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/ui/UIVBox.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/ui/UIVBox.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/ui/UIVideoPlayer-android.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/ui/UIVideoPlayer-ios.mm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/ui/UIVideoPlayer-tizen.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/ui/UIVideoPlayer.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/ui/UIWebView-inl.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/ui/UIWebView.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/ui/UIWebView.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/ui/UIWebView.mm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/ui/UIWebViewImpl-android.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/ui/UIWebViewImpl-android.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/ui/UIWebViewImpl-ios.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/ui/UIWebViewImpl-ios.mm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/ui/UIWebViewImpl-tizen.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/ui/UIWebViewImpl-tizen.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/ui/UIWidget.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/ui/UIWidget.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/ui/proj.win32/libui.vcxproj" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/ui/proj.win32/libui.vcxproj.filters" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/vr/CCVRDistortion.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/vr/CCVRDistortion.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/vr/CCVRDistortionMesh.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/vr/CCVRDistortionMesh.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/vr/CCVRGenericHeadTracker.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/vr/CCVRGenericHeadTracker.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/vr/CCVRGenericRenderer.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/vr/CCVRGenericRenderer.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/vr/CCVRProtocol.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/cocos/vr/CMakeLists.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/docs/CODING_STYLE.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/docs/Groups.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/docs/MainPage.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/docs/MainPageWhiteBook.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/docs/RELEASE_ENGINEERING.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/docs/RELEASE_NOTES.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/docs/RELEASE_NOTES_CN.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/docs/doxygen.config" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/docs/doxygen_white_book.config" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/download-deps.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../frameworks/cocos2d-x/issue_template.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../manifest.webapp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-11" />
+    <option name="y" value="-11" />
+    <option name="width" value="1942" />
+    <option name="height" value="1042" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartTestRunConfigurationType" factoryName="Dart Test">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" value="" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="662a3ba8-7b9e-4430-a705-46b9e99c39f0" name="Default" comment="" />
+      <created>1496811261459</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1496811261459</updated>
+      <workItem from="1496811262923" duration="481000" />
+    </task>
+    <task id="LOCAL-00001" summary="easy calculator">
+      <created>1496811596486</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1496811596486</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="481000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-11" y="-11" width="1942" height="1042" extended-state="6" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="easy calculator" />
+    <option name="LAST_COMMIT_MESSAGE" value="easy calculator" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+</project>
