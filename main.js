@@ -83,7 +83,6 @@ cc.game.onStart = function () {
     cc.LoaderScene.preload(g_resources, function () {
         cc.director.runScene(new frank07Scene());
     }, this);
-
 };
 
 cc.game.run();
