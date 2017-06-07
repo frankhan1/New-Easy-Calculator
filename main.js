@@ -84,4 +84,5 @@ cc.game.onStart = function () {
         cc.director.runScene(new frank07Scene());
     }, this);
 };
+
 cc.game.run();
